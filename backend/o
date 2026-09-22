@@ -1,0 +1,6 @@
+PORT=5000
+
+MONGODB_URI=mongodb+srv://deveshbhul5_db_user:<db_password>@cluster0.zglt2dy.mongodb.net/
+
+JWT_SECRET=YOUR_RANDOM_SECRET
+
